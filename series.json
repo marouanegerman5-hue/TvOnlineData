@@ -1,0 +1,32 @@
+[
+  {
+    "name": "مسلسل العودة",
+    "poster": "",
+    "episodes": [
+      { "title": "الحلقة 1", "url": "https://example.com/series/s1e1.mp4" },
+      { "title": "الحلقة 2", "url": "https://example.com/series/s1e2.mp4" },
+      { "title": "الحلقة 3", "url": "https://example.com/series/s1e3.mp4" },
+      { "title": "الحلقة 4", "url": "https://example.com/series/s1e4.mp4" }
+    ]
+  },
+  {
+    "name": "مسلسل الغريب",
+    "poster": "",
+    "episodes": [
+      { "title": "الحلقة 1", "url": "https://example.com/series/s2e1.mp4" },
+      { "title": "الحلقة 2", "url": "https://example.com/series/s2e2.mp4" },
+      { "title": "الحلقة 3", "url": "https://example.com/series/s2e3.mp4" }
+    ]
+  },
+  {
+    "name": "مسلسل الحقيقة",
+    "poster": "",
+    "episodes": [
+      { "title": "الحلقة 1", "url": "https://example.com/series/s3e1.mp4" },
+      { "title": "الحلقة 2", "url": "https://example.com/series/s3e2.mp4" },
+      { "title": "الحلقة 3", "url": "https://example.com/series/s3e3.mp4" },
+      { "title": "الحلقة 4", "url": "https://example.com/series/s3e4.mp4" },
+      { "title": "الحلقة 5", "url": "https://example.com/series/s3e5.mp4" }
+    ]
+  }
+]
