@@ -7,11 +7,12 @@
   {
     "name": "MBC 1",
     "url": "https://example.com/stream/mbc1.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/MBC_1_logo.svg/512px-MBC_1_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2M_TV_logo.png"
   },
   {
     "name": "beIN Sports 1",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/BeIN_Sports_1_HD.svg/250px-BeIN_Sports_1_HD.svg.png"
+    "url": "https://example.com/stream/bein1.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/BeIN_Sports_1_HD.svg/250px-BeIN_Sports_1_HD.svg.png"
   },
   {
     "name": "MBC Drama",
@@ -22,10 +23,5 @@
     "name": "Saudi TV 1",
     "url": "https://example.com/stream/saudtv1.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Saudi_TV_1.svg/250px-Saudi_TV_1.svg.png"
-  },
-  {
-    "name": "2M Maroc",
-    "url": "https://example.com/stream/2m.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2M_Maroc_logo.png/512px-2M_Maroc_logo.png"
   }
 ]
