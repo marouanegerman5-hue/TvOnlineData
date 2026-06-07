@@ -1,27 +1,27 @@
 [
   {
-    "name": "العراق",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-    "logo": ""
+    "name": "Al Jazeera",
+    "url": "https://example.com/stream/aljazeera.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/250px-Aljazeera_eng.svg.png"
   },
   {
-    "name": "MBC Bollywod",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
-    "logo": ""
+    "name": "MBC 1",
+    "url": "https://example.com/stream/mbc1.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/MBC_1_logo.svg/250px-MBC_1_logo.svg.png"
   },
   {
     "name": "beIN Sports 1",
     "url": "https://example.com/stream/bein1.m3u8",
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/BeIN_Sports_1_HD.svg/250px-BeIN_Sports_1_HD.svg.png"
   },
   {
-    "name": "الجزيرة الإخبارية",
-    "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-    "logo": ""
+    "name": "MBC Drama",
+    "url": "https://example.com/stream/mbcdrama.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/MBC_Drama_logo.svg/250px-MBC_Drama_logo.svg.png"
   },
   {
     "name": "Saudi TV 1",
     "url": "https://example.com/stream/saudtv1.m3u8",
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Saudi_TV_1.svg/250px-Saudi_TV_1.svg.png"
   }
 ]
