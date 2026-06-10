@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Al Aoula",
+    "url": "https://example.com/aoula.m3u8",
+    "logo": "https://example.com/logos/aoula.png"
+  },
+  {
+    "name": "2M Maroc",
+    "url": "https://example.com/2m.m3u8",
+    "logo": "https://example.com/logos/2m.png"
+  },
+  {
+    "name": "Medi1 TV",
+    "url": "https://example.com/medi1.m3u8",
+    "logo": "https://example.com/logos/medi1.png"
+  }
+]

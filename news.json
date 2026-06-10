@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Al Jazeera",
+    "url": "https://example.com/aljazeera.m3u8",
+    "logo": "https://example.com/logos/aljazeera.png"
+  },
+  {
+    "name": "France 24 Arabic",
+    "url": "https://example.com/france24.m3u8",
+    "logo": "https://example.com/logos/france24.png"
+  }
+]

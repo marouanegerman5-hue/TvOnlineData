@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MBC1",
+    "url": "https://example.com/mbc1.m3u8",
+    "logo": "https://example.com/logos/mbc1.png"
+  },
+  {
+    "name": "Dubai TV",
+    "url": "https://example.com/dubai.m3u8",
+    "logo": "https://example.com/logos/dubai.png"
+  }
+]
