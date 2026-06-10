@@ -1,1 +1,2807 @@
-[]
+[
+  {
+    "name": "BEIN SPORTS 1MAX 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408645.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2MAX 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408646.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1MAX 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408647.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2MAX 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408648.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1MAX HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408649.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2MAX HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408650.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1MAX SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408653.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2MAX SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408654.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS Mena 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/407348.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN Sport News 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135668.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORT 4 K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/271896.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORT 4 K (1080p)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/271897.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135623.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135624.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 3 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135625.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 4 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135626.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 5 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135627.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 6 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135628.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 7 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135629.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 9 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/346295.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 8 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/346294.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN Sport English 4k 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213986.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN Sport English 4k 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213987.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN Sport English 4k 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213988.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN Sport French 4k 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213989.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN Sport French 4k 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213990.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport NBA 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213991.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163571.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163572.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 3 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163573.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 4 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163574.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 5 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163575.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 6 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163576.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 7 4k+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163577.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135636.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport Mena FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176366.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135637.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135638.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 3 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135639.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 4 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135640.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 5 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135641.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 6 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135642.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 7 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135643.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 8+ FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/400701.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 9+ FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/400699.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORT Mena HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/238408.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135654.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135655.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135656.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135657.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 5 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135658.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 6 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135659.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 7 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135660.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 8 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/399846.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 8+ HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/400702.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 9 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/399847.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 9+ HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/400700.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sports English HD1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213992.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sports English HD2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213993.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sports English HD3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213994.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sports French HD1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213995.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sports French HD2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213996.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport NBA HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213997.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 1 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176367.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 2 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176368.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 3 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176369.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 4 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176370.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 5 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176371.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 6 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176372.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 7 HD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176373.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 1 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135669.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 2 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135670.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 3 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135671.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 4 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135672.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 5 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135673.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 6 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135674.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 7 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/135675.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 8 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/346982.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 9 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/346983.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport English SD1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/214381.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport English SD2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/214382.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport English SD3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/214383.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport French SD1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/214384.ts",
+    "logo": ""
+  },
+  {
+    "name": "Bein Sport French SD2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/214385.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 1 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176384.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 2 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176385.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 3 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176386.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 4 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176387.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 5 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176388.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 6 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176389.ts",
+    "logo": ""
+  },
+  {
+    "name": "beIN SPORTS 7 SD+",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176390.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/211795.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/213119.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEINS SPORTS XTRA 3 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/345829.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 4 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394093.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 5 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394094.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 6 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394095.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 7 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394096.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 8 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394097.ts",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS XTRA 9 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394098.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 1 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402373.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 2 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402374.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 3 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402375.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 4 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402376.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 5 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402377.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 6 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402378.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 7 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402379.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 8 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402380.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 9 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402381.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 10 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402382.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402386.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402387.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402388.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402389.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 5 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402390.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 6 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402391.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 1 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402392.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 2 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402393.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 3 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402394.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 4 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402395.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 5 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402396.ts",
+    "logo": ""
+  },
+  {
+    "name": "Alwan Sport 6 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402397.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 1FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402557.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 2FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402558.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 3FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402559.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 4FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402560.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 5FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402561.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 1HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402562.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 2HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402563.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 3HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402564.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 4HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402565.ts",
+    "logo": ""
+  },
+  {
+    "name": "Shahid Sports 5HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402566.ts",
+    "logo": ""
+  },
+  {
+    "name": "THAMANYA 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408933.ts",
+    "logo": ""
+  },
+  {
+    "name": "THAMANYA HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408934.ts",
+    "logo": ""
+  },
+  {
+    "name": "THAMANYA SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408935.ts",
+    "logo": ""
+  },
+  {
+    "name": "AR: THAMANYA 1 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/401663.ts",
+    "logo": ""
+  },
+  {
+    "name": "AR: THAMANYA 2 4k",
+    "url": "http://s1eed.store/live/9499781389/7742676539/401662.ts",
+    "logo": ""
+  },
+  {
+    "name": "AR: THAMANYA 3 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/401690.ts",
+    "logo": ""
+  },
+  {
+    "name": "AR: THAMANYA 1HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/401692.ts",
+    "logo": ""
+  },
+  {
+    "name": "AR: THAMANYA 2HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/401691.ts",
+    "logo": ""
+  },
+  {
+    "name": "AR: THAMANYA 3HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/401726.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 3FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415609.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 4FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415610.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 5FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415611.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 6FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415612.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 7FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415613.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 4HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415614.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 5HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415615.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 6HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415616.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Thmanayh 7HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/415617.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 1 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/314264.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/314265.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORST ASIA 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/369635.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORST ASIA 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/369636.ts",
+    "logo": ""
+  },
+  {
+    "name": "StarzPlay SPORT SPORTS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/314086.ts",
+    "logo": ""
+  },
+  {
+    "name": "VIP: AD Sport Premium 1 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/314261.ts",
+    "logo": ""
+  },
+  {
+    "name": "VIP: AD Sport Premium 2 4K",
+    "url": "http://s1eed.store/live/9499781389/7742676539/314262.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 1 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/314266.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 1 HEVC",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371573.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 1FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371574.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 1HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371575.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 1Low",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371576.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 2 HEVC",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371577.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 2FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371578.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 2HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371579.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD SPORT Premium 2Low",
+    "url": "http://s1eed.store/live/9499781389/7742676539/371580.ts",
+    "logo": ""
+  },
+  {
+    "name": "SHASHA Sports 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/402489.ts",
+    "logo": ""
+  },
+  {
+    "name": "STC TV",
+    "url": "http://s1eed.store/live/9499781389/7742676539/369839.ts",
+    "logo": ""
+  },
+  {
+    "name": "أكشن مع وليد",
+    "url": "http://s1eed.store/live/9499781389/7742676539/247946.ts",
+    "logo": ""
+  },
+  {
+    "name": "أكشن اكسترا",
+    "url": "http://s1eed.store/live/9499781389/7742676539/249061.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 1 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/64592.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/64593.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 3 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/53665.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 4 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/53664.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 5 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163152.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 7 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163154.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 8 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/163155.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/50945.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/50946.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 1 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/51172.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi Sport 2 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/51173.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Saudi 24 Sport",
+    "url": "http://s1eed.store/live/9499781389/7742676539/73539.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Libya Sport",
+    "url": "http://s1eed.store/live/9499781389/7742676539/202895.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35087.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 1 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35088.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Dubai Sport 1 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408406.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Dubai Sport 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408407.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 3 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35086.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/51174.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/51175.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 3 SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/51176.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 6 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/53178.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AD Sports 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/55927.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AL KASS 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35207.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AL KASS 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35206.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AL KASS 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35473.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AL KASS 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35472.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AL KASS 5 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/35471.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: AL KASS 6 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/299208.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: ON Sport 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/166442.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: ZAMALIK EGPT",
+    "url": "http://s1eed.store/live/9499781389/7742676539/162683.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: On Sport HD 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176802.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: On  Sport HD MAX",
+    "url": "http://s1eed.store/live/9499781389/7742676539/176803.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORT: Libya Sports 2HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/206877.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: ALRabiaa Sport HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/283313.ts",
+    "logo": ""
+  },
+  {
+    "name": "AD Sports 1 Asia FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/246060.ts",
+    "logo": ""
+  },
+  {
+    "name": "ALKASS 8 (Live Events)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/390279.ts",
+    "logo": ""
+  },
+  {
+    "name": "ALKASS 9 (Live Events)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/390280.ts",
+    "logo": ""
+  },
+  {
+    "name": "ALKASS 10 (Live Events)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/390281.ts",
+    "logo": ""
+  },
+  {
+    "name": "ALKASS 11 (Live Events)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/390282.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Dubai Sport 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408408.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Dubai Racing 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408409.ts",
+    "logo": ""
+  },
+  {
+    "name": "Ar: Dubai Racing 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/408410.ts",
+    "logo": ""
+  },
+  {
+    "name": "Eg: On Sport HD 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/199745.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP BALLY SPORTS FLORIDA",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393247.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP BALLY SPORTS MIDWEST",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393248.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP BALLY SPORTS NORTH",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393249.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP BALLY SPORTS SOUTH WEST",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393250.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393251.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 10 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393252.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 11 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393253.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 12",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393254.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393255.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393256.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 4",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393257.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 5",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393258.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 6",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393259.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 7",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393260.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 8",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393261.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: MAGENTA SPORT 9",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393262.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA ATLANTA HAWKS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393263.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA BOSTON CELTICS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393264.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA CHARLOTTE HORNETS (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393265.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA DALLAS MAVERICKS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393266.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA DETROIT PISTONS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393267.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA HOUSTON ROCKETS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393268.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA MEMPHIS GRIZZLIES",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393269.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA MIAMI HEAT",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393270.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA MINNESOTA TIMBERWOLVES",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393271.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA NEW ORLEANS PELICANS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393272.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA NEW YORK KNICKS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393273.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA OKLAHOMA CITY THUNDERS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393274.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA ORLANDO MAGIC",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393275.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA PHILADELPHIA 76ERS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393276.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA PHOENIX SUNS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393277.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA SACRAMENTO KINGS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393278.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA SAN ANTONIO SPURS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393279.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA TORONTO RAPTORS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393280.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA WASHINGTON WIZARDS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393281.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: NBA TV VIP",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393282.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393283.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 10",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393284.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 11",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393285.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 12",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393286.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 13",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393287.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 14",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393288.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 15",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393289.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 16",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393290.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 17",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393291.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 18",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393292.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 19",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393293.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393294.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 20",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393295.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 21",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393296.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 22",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393297.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 23",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393298.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393299.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 4",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393300.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 5",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393301.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 6",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393302.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 7",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393303.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 8",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393304.ts",
+    "logo": ""
+  },
+  {
+    "name": "SCAN: VIP VIAPLAY XTRA 9",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393305.ts",
+    "logo": ""
+  },
+  {
+    "name": "ALB: Rtsh Sport",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393306.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: ART SPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393307.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: ART SPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393308.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: ART SPORT 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393309.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: TV DUKAGJINI",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393310.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: EUROSPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393311.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: EUROSPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393312.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: FIGHT BOX",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393313.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: K SPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393314.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: K SPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393315.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: K SPORT 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393316.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: K SPORT 4",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393317.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: KUJTESA SPORT 1 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393318.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: KUJTESA SPORT 2 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393319.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: KUJTESA SPORT 3 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393320.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: KUJTESA SPORT 4 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393321.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: MCN TV",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393322.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: PREMIER SPORTS 2 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393323.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SPORT KOSOVA 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393324.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SPORT KOSOVA 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393325.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393326.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORT 6 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393327.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393328.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORT 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393329.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORT 4",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393330.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORTS 5",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393331.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: SUPER SPORTS NEWS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393332.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: TRING SPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393333.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: TRING SPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393334.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: TRING SPORT 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393335.ts",
+    "logo": ""
+  },
+  {
+    "name": "AL: TRING SPORT NEWS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393336.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: BARCA TV",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393337.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: CUATRO",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393338.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: DAZN 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393339.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: DAZN 3 ( Match Time)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393340.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: DAZN F1 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393341.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: DAZN LaLiga B1 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393342.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: ESPN DEPORTES",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393343.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: EUROSPORT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393344.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: EUROSPORT 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393345.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: GOL TV",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393346.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ DEPORTES [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393347.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ DEPORTES 2 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393348.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ DEPORTES 3 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393349.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ DEPORTES 4 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393350.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ DEPORTES 5 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393351.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ DEPORTES 7 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393352.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LaLiga 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393353.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 10",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393354.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393355.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 4",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393356.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 5",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393357.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 6",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393358.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 7",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393359.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 8",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393360.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA 9 (down)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393361.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA B2 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393362.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ LALIGA TV BAR",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393363.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: M+ liga de campeones B2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393364.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: Movistar Accion",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393365.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: Movistar Formula 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393366.ts",
+    "logo": ""
+  },
+  {
+    "name": "ES: TELEMADRID",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393367.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 25 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393368.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 24 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393369.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 23 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393370.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 22 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393371.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 21 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393372.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 20 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393373.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 19 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393374.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 18 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393375.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 17 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393376.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 16 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393377.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 15 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393378.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 14 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393379.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 13 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393380.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 12 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393381.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 11 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393382.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 10 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393383.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 09 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393384.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 08 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393385.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 07 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393386.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 06 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393387.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 05 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393388.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 04 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393389.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 03 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393390.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 02 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393391.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: ESPN + EVENT 01 VIP (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393392.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393393.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393394.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393395.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393396.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN EXTRA",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393397.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN NEWS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393398.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP Fox Succer Plus",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393399.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP ESPN U",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393400.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 1 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393401.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 10 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393402.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 11 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393403.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 2 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393404.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 3 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393405.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 4 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393406.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 5 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393407.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 6 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393408.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 7 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393409.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 8 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393410.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT 9 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393411.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT AUSTRIA 1 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393412.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT AUSTRIA 2 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393413.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT AUSTRIA 3 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393414.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT AUSTRIA 4 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393415.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT AUSTRIA 5 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393416.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 1 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393417.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 10 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393418.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 2 [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393419.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 3 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393420.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 4 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393421.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 5 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393422.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 6 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393423.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 7 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393424.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 8 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393425.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT BUNDESLIGA 9 (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393426.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT F1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393427.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT GOLF [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393428.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT MIX",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393429.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT NEWS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393430.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT PREMIER LEAGUE",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393431.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT TENNIS [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393432.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORT TOP EVENT [Live During Events Only]",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393433.ts",
+    "logo": ""
+  },
+  {
+    "name": "DE: SKY SPORTS F1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393434.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: DIRECT EQUIPE",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393435.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: AB MOTEURS HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393436.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: AUTO MOTO HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393437.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: MultiSports 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393438.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: MultiSports 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393439.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: MultiSports 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393440.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: MultiSports 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393441.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: MultiSports 5 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393442.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: MultiSports 6 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393443.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Champions League 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393444.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Champions League 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393445.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Champions League 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393446.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Foot HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393447.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ MotoGP HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393448.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sport 2 HD (ligue 1)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393449.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sport HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393450.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sports 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393451.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sports 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393452.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sports 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393453.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sports 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393454.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ Sports 5 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393455.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Canal+ UEFA UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393456.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Eurosport 360 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393457.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Eurosport 360 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393458.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Eurosport 360 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393459.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Eurosport 360 6 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393460.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Eurosport 360 7 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393461.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: Eurosport 360 8 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393462.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 1 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393463.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 2 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393464.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 3 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393465.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 4 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393466.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 5 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393467.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 6 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393468.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 7 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393469.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 8 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393470.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 9 UHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393471.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 10 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393472.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 11 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393473.ts",
+    "logo": ""
+  },
+  {
+    "name": "LIGUE 12 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393474.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PSG 1 Foot HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393475.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PSG 2 Foot HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393476.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PSG 3 Foot HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393477.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 1 4K Ligue 1 | Stade de Reims v FC Lorient",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393478.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 2 4K Every Saturday | Ligue 2 Multiplex - J12",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393479.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 3 4K Ligue 2 BKT | Paris FC v Estac Troyes",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393480.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 4 4K Ligue 2 BKT  | SC Bastia v En Avant Guingamp",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393481.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 5 4K Ligue 2 BKT | AJ Auxerre v USL Dunkerque",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393482.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 6 4K Ligue 2 BKT | Valenciennes FC v Stade Malherbe Caen",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393483.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 7 4K Ligue 2 BKT  | Pau FC v Grenoble Foot 38",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393484.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 8 4K Ligue 2 BKT  |Quevilly Rouen Métropole v FC Annecy",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393485.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 9 4K Ligue 2 BKT  | Amiens SC v Stade Lavallois Mayenne FC",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393486.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 10 4K Ligue 2 BKT | US Concarneau v AC Ajaccio",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393487.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 11 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393488.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 12 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393489.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 13 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393490.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 14 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393491.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 15 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393492.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 16 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393493.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 17 4K Event Reply",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393494.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 18 4K LIGUE",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393495.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: PPV Channel 19 4K LIGUE",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393496.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 1 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393497.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 2 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393498.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 3 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393499.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 4 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393500.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 5 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393501.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 6 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393502.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 7 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393503.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: SKWEEK - EVENT 8 FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393504.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: EQUIDIA HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393505.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: EQUIPE HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393506.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: ES1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393507.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: EUROCHANNEL  HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393508.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: EURONEWS HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393509.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: EUROSPORT 2 FR HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393510.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: FOOT  24/24 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393511.ts",
+    "logo": ""
+  },
+  {
+    "name": "INFO SPORT HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393512.ts",
+    "logo": ""
+  },
+  {
+    "name": "L'EQUIPE 21 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393513.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: TREK HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393514.ts",
+    "logo": ""
+  },
+  {
+    "name": "FR: TREK HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393515.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393516.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393517.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393518.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 4",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393519.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 5",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393520.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 6",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393521.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 7",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393522.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 8",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393523.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 9",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393524.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 10",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393525.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 11",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393526.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 12",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393527.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 13",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393528.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 14",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393529.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 15",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393530.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 16",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393531.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 17",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393532.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 18",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393533.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 19",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393534.ts",
+    "logo": ""
+  },
+  {
+    "name": "DAZN Event 20",
+    "url": "http://s1eed.store/live/9499781389/7742676539/393535.ts",
+    "logo": ""
+  },
+  {
+    "name": "IT: SKY SPORT NBA VIP",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395893.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA ATLANTA HAWKS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395894.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA BOSTON CELTICS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395895.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA CHARLOTTE HORNETS (MATCH TIME)",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395896.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA DALLAS MAVERICKS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395897.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA DETROIT PISTONS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395898.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA HOUSTON ROCKETS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395899.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA MEMPHIS GRIZZLIES",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395900.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA MIAMI HEAT",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395901.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA MINNESOTA TIMBERWOLVES",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395902.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA NEW ORLEANS PELICANS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395903.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA NEW YORK KNICKS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395904.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA OKLAHOMA CITY THUNDERS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395905.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA ORLANDO MAGIC",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395906.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA PHILADELPHIA 76ERS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395907.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA PHOENIX SUNS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395908.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA SACRAMENTO KINGS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395909.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA SAN ANTONIO SPURS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395910.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA TORONTO RAPTORS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395911.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP NBA WASHINGTON WIZARDS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/395912.ts",
+    "logo": ""
+  },
+  {
+    "name": "BOXING TV",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394060.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: VIP UFC FIGHT PASS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394050.ts",
+    "logo": ""
+  },
+  {
+    "name": "BR: UFC Fightpass BR",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394051.ts",
+    "logo": ""
+  },
+  {
+    "name": "UK: UFC FIGHT NIGHT PASS VIP",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394052.ts",
+    "logo": ""
+  },
+  {
+    "name": "UK: BOX NATION VIP",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394053.ts",
+    "logo": ""
+  },
+  {
+    "name": "RUS: MATCH BOX",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394054.ts",
+    "logo": ""
+  },
+  {
+    "name": "PL: FIGHT BOX",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394055.ts",
+    "logo": ""
+  },
+  {
+    "name": "AF: WWE CHANNEL",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394056.ts",
+    "logo": ""
+  },
+  {
+    "name": "CA: WWE",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394057.ts",
+    "logo": ""
+  },
+  {
+    "name": "USA: WWE NETWORK",
+    "url": "http://s1eed.store/live/9499781389/7742676539/394058.ts",
+    "logo": ""
+  },
+  {
+    "name": "PTV SPORTS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382882.ts",
+    "logo": ""
+  },
+  {
+    "name": "TEN SPORTS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382883.ts",
+    "logo": ""
+  },
+  {
+    "name": "Willow Cricket",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382884.ts",
+    "logo": ""
+  },
+  {
+    "name": "WILLOW EXTRA HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382885.ts",
+    "logo": ""
+  },
+  {
+    "name": "STAR SPORTS 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382886.ts",
+    "logo": ""
+  },
+  {
+    "name": "STAR SPORTS 1 HINDI",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382887.ts",
+    "logo": ""
+  },
+  {
+    "name": "STAR SPORTS 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382888.ts",
+    "logo": ""
+  },
+  {
+    "name": "STAR SPORTS 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382889.ts",
+    "logo": ""
+  },
+  {
+    "name": "A SPORTS HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382890.ts",
+    "logo": ""
+  },
+  {
+    "name": "A SPORTS SD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382891.ts",
+    "logo": ""
+  },
+  {
+    "name": "A Sports FHD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382892.ts",
+    "logo": ""
+  },
+  {
+    "name": "Criclife 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382893.ts",
+    "logo": ""
+  },
+  {
+    "name": "GEO SUPER",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382894.ts",
+    "logo": ""
+  },
+  {
+    "name": "STAR SPORTS TAMIL",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382895.ts",
+    "logo": ""
+  },
+  {
+    "name": "T SPORTS BANGLA",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382896.ts",
+    "logo": ""
+  },
+  {
+    "name": "Super Sports Cricket",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382897.ts",
+    "logo": ""
+  },
+  {
+    "name": "SKY CRICKET HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382898.ts",
+    "logo": ""
+  },
+  {
+    "name": "STAR SPORTS SELECT 1",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382899.ts",
+    "logo": ""
+  },
+  {
+    "name": "SUPER SPORT Variety 3",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382900.ts",
+    "logo": ""
+  },
+  {
+    "name": "SONY TEN 1 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382901.ts",
+    "logo": ""
+  },
+  {
+    "name": "SONY TEN 2 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382902.ts",
+    "logo": ""
+  },
+  {
+    "name": "SONY TEN 3 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382903.ts",
+    "logo": ""
+  },
+  {
+    "name": "SONY TEN 4 HD",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382904.ts",
+    "logo": ""
+  },
+  {
+    "name": "Star Sports Select 2",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382905.ts",
+    "logo": ""
+  },
+  {
+    "name": "SPORTS 18",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382906.ts",
+    "logo": ""
+  },
+  {
+    "name": "TS DD SPORTS",
+    "url": "http://s1eed.store/live/9499781389/7742676539/382907.ts",
+    "logo": ""
+  },
+  {
+    "name": "(الاهلي المصري و الدحيل القطري (كاس العالم للاندية",
+    "url": "http://s1eed.store/movie/9499781389/7742676539/209089.mp4",
+    "logo": ""
+  },
+  {
+    "name": "الأهلي و الزمالك (نهائي أفريقيا 2020)",
+    "url": "http://s1eed.store/movie/9499781389/7742676539/186593.mp4",
+    "logo": ""
+  }
+]
