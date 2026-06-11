@@ -3,7 +3,10 @@
     "name": "The Maze Runner",
     "poster": "https://example.com/posters/sample.jpg",
     "episodes": [
-      { "title": "الحلقة 1"http://darpro4k.com:8080/movie/365580831233/684bdce41832a.15950/358250.mp4" },
+      {
+        "title": "الحلقة 1",
+        "url": "http://darpro4k.com:8080/movie/365580831233/684bdce41832a.15950/358250.mp4"
+      }
     ]
   }
 ]
