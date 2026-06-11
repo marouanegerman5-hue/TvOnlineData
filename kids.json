@@ -1,7 +1,7 @@
 [
   { "name": "كراميش", "url": "http://51.159.212.11:8080/live/365580831233/684bdce41832a.15950/609.m3u8?token=bUfyXX.aUbHUzf.y.aUbHUda.yczHbdcU.X.y.MA.m3u8.5cd9f9949de287a1cae9b91c2c0f1e3509025e953be8d209626f00a634fce34a.36903.TWFyb2MgVGVsZWNvbQ==.ZGFycHJvNGsuY29tOjgwODA=", "logo": "https://example.com/logos/mbc1.png" },
-  { "name": "MBC2", "url": "https://example.com/mbc2.m3u8", "logo": "https://example.com/logos/mbc2.png" },
-  { "name": "MBC3", "url": "https://example.com/mbc3.m3u8", "logo": "https://example.com/logos/mbc3.png" },
+  { "name": "كابتنماجد", "url": "http://51.195.90.194:8080/live/365580831233/684bdce41832a.15950/418211.m3u8?token=bUfyXX.UHzy.X.aUfHX.yczHbdcU.X.y.MA.m3u8.f1c0243d09255e68aa8f61aac6c626620dbb2d9d9017e4b96dffafe39cfb404b.36903.TWFyb2MgVGVsZWNvbQ==.ZGFycHJvNGsuY29tOjgwODA=", "logo": "https://i.ibb.co/FkF8fPjb/images-67616a96-8f22-41.jpg" },
+  { "name": "الفأر الطباخ", "url": "http://95.216.246.52:8080/movie/365580831233/684bdce41832a.15950/50997.mp4?token=bUfyXX.aaXUX.X.X.ydzdyHcfcf.X.y.MA.mp4.7404f702bde722ff26d7d7f6dc7a5ba148b0448374bbe8b24639234b6dcb375e.36903.TWFyb2MgVGVsZWNvbQ==", "logo": "https://i.ibb.co/Z6051t8v/Ratatouille-2007-367x550.webp[/img" },
   { "name": "MBC4", "url": "https://example.com/mbc4.m3u8", "logo": "https://example.com/logos/mbc4.png" },
   { "name": "MBC Drama", "url": "https://example.com/mbc-drama.m3u8", "logo": "https://example.com/logos/mbc-drama.png" },
   { "name": "MBC Action", "url": "https://example.com/mbc-action.m3u8", "logo": "https://example.com/logos/mbc-action.png" },
