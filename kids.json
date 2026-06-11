@@ -1,7 +1,32 @@
 [
-  {
-    "name": "MBC3",
-    "url": "https://example.com/mbc3.m3u8",
-    "logo": "https://example.com/logos/mbc3.png"
-  }
+  { "name": "كراميش", "url": "http://51.159.212.11:8080/live/365580831233/684bdce41832a.15950/609.m3u8?token=bUfyXX.aUbHUzf.y.aUbHUda.yczHbdcU.X.y.MA.m3u8.5cd9f9949de287a1cae9b91c2c0f1e3509025e953be8d209626f00a634fce34a.36903.TWFyb2MgVGVsZWNvbQ==.ZGFycHJvNGsuY29tOjgwODA=", "logo": "https://example.com/logos/mbc1.png" },
+  { "name": "MBC2", "url": "https://example.com/mbc2.m3u8", "logo": "https://example.com/logos/mbc2.png" },
+  { "name": "MBC3", "url": "https://example.com/mbc3.m3u8", "logo": "https://example.com/logos/mbc3.png" },
+  { "name": "MBC4", "url": "https://example.com/mbc4.m3u8", "logo": "https://example.com/logos/mbc4.png" },
+  { "name": "MBC Drama", "url": "https://example.com/mbc-drama.m3u8", "logo": "https://example.com/logos/mbc-drama.png" },
+  { "name": "MBC Action", "url": "https://example.com/mbc-action.m3u8", "logo": "https://example.com/logos/mbc-action.png" },
+  { "name": "MBC Max", "url": "https://example.com/mbc-max.m3u8", "logo": "https://example.com/logos/mbc-max.png" },
+  { "name": "Al Arabiya", "url": "https://example.com/alarabiya.m3u8", "logo": "https://example.com/logos/alarabiya.png" },
+  { "name": "Al Hadath", "url": "https://example.com/alhadath.m3u8", "logo": "https://example.com/logos/alhadath.png" },
+  { "name": "Al Jazeera", "url": "https://example.com/aljazeera.m3u8", "logo": "https://example.com/logos/aljazeera.png" },
+  { "name": "Al Jazeera Mubasher", "url": "https://example.com/ajm.m3u8", "logo": "https://example.com/logos/ajm.png" },
+  { "name": "Sky News Arabia", "url": "https://example.com/skynews.m3u8", "logo": "https://example.com/logos/skynews.png" },
+  { "name": "Dubai TV", "url": "https://example.com/dubaitv.m3u8", "logo": "https://example.com/logos/dubaitv.png" },
+  { "name": "Abu Dhabi TV", "url": "https://example.com/abudhabi.m3u8", "logo": "https://example.com/logos/abudhabi.png" },
+  { "name": "Sharjah TV", "url": "https://example.com/sharjah.m3u8", "logo": "https://example.com/logos/sharjah.png" },
+  { "name": "Kuwait TV", "url": "https://example.com/kuwait.m3u8", "logo": "https://example.com/logos/kuwait.png" },
+  { "name": "Saudi TV", "url": "https://example.com/saudi.m3u8", "logo": "https://example.com/logos/saudi.png" },
+  { "name": "Al-Ekhbariya", "url": "https://example.com/alekhbariya.m3u8", "logo": "https://example.com/logos/alekhbariya.png" },
+  { "name": "Rotana Cinema", "url": "https://example.com/rotana-cinema.m3u8", "logo": "https://example.com/logos/rotana-cinema.png" },
+  { "name": "Rotana Khalijiah", "url": "https://example.com/rotana-khalijiah.m3u8", "logo": "https://example.com/logos/rotana-khalijiah.png" },
+  { "name": "LBC", "url": "https://example.com/lbc.m3u8", "logo": "https://example.com/logos/lbc.png" },
+  { "name": "MTV Lebanon", "url": "https://example.com/mtv.m3u8", "logo": "https://example.com/logos/mtv.png" },
+  { "name": "Al-Nahar", "url": "https://example.com/alnahar.m3u8", "logo": "https://example.com/logos/alnahar.png" },
+  { "name": "CBC", "url": "https://example.com/cbc.m3u8", "logo": "https://example.com/logos/cbc.png" },
+  { "name": "ON E", "url": "https://example.com/one.m3u8", "logo": "https://example.com/logos/one.png" },
+  { "name": "DMC", "url": "https://example.com/dmc.m3u8", "logo": "https://example.com/logos/dmc.png" },
+  { "name": "Al-Hayat", "url": "https://example.com/alhayat.m3u8", "logo": "https://example.com/logos/alhayat.png" },
+  { "name": "National Geographic AD", "url": "https://example.com/natgeo.m3u8", "logo": "https://example.com/logos/natgeo.png" },
+  { "name": "Spacetoon", "url": "https://example.com/spacetoon.m3u8", "logo": "https://example.com/logos/spacetoon.png" },
+  { "name": "Quran TV", "url": "https://example.com/quran.m3u8", "logo": "https://example.com/logos/quran.png" }
 ]
