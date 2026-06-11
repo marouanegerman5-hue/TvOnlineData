@@ -1,13 +1,13 @@
 [
   {
     "name": "Al Aoula",
-    "url": "https://example.com/aoula.m3u8",
+    "url": "https://stream-lb.livemediama.com/alaoula/hls/master.m3u8",
     "logo": "https://example.com/logos/aoula.png"
   },
   {
     "name": "2M Maroc",
-    "url": "https://stream-lb.livemediama.com/alaoula/hls/master.m3u8",
-    "logo": "https://example.com/logos/2m.png"
+    "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2M_TV_logo.png"
   },
   {
     "name": "Medi1 TV",
