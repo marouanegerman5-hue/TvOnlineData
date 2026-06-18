@@ -20,47 +20,47 @@
     "logo": "https://sc.kingofsat.net/jpg/athaqafia.jpg"
   },
   {
-    "name": "Al Maghribia",
+    "name": "Al Maghribia1",
     "url": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=fsooCS4L65chvpjQ4HItWqpzt57fb50grvIVaLMeam4&expires=1781805250&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png"
   },
   {
-    "name": "Al Magharibia TV",
+    "name": "Al Magharibia2",
     "url": "http://s1eed.store/live/9499781389/7742676539/383580.ts",
     "logo": ""
   },
   {
     "name": "Assadissa (السادسة)",
-    "url": "http://s1eed.store/live/9499781389/7742676539/383577.ts",
-    "logo": ""
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8?token=KRdPtic9um5Rv9OHz17RMg2tK7De2jKfrVruuh5CdBk&expires=1781806598&token_path=%2Fabr_corp%2F73_assadissa_7b7u5n1",
+    "logo": "https://alislah.ma/wp-content/uploads/2024/05/%D9%82%D9%86%D8%A7%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3.png"
   },
   {
-    "name": "Arryadia",
+    "name": "Assabia",
     "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=a3D_eqAH_cxX4IxRPDOXGVHAg8C--DrKKstqi1W4ptk&expires=1781721855&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0",
     "logo": "http://showmetv.live:8898/chlogo/all/arryadiahd.png"
   },
   {
-    "name": "Arryadia HD",
+    "name": "Assabia",
     "url": "http://s1eed.store/live/9499781389/7742676539/383576.ts",
     "logo": ""
   },
   {
-    "name": "Arryadia Olympics HD",
-    "url": "http://s1eed.store/live/9499781389/7742676539/383570.ts",
-    "logo": "http://showmetv.live:8898/chlogo/all/tamazighthd.png"
+    "name": "Tamazight480p",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8?token=hK1S0E-CKthJocHko9rJaoVYvEtyKFXz9pyKKMnJIZg&expires=1781807523&token_path=%2Fabr_corp%2F73_tamazight_tccybxt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tamazight-tv-chaine.png"
   },
   {
-    "name": "Tamazight HD",
-    "url": "http://s1eed.store/live/9499781389/7742676539/383578.ts",
-    "logo": ""
+    "name": "Tamazight240p",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8?token=hK1S0E-CKthJocHko9rJaoVYvEtyKFXz9pyKKMnJIZg&expires=1781807523&token_path=%2Fabr_corp%2F73_tamazight_tccybxt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tamazight-tv-chaine.png"
   },
   {
-    "name": "Athaqafia HD",
+    "name": "Chada2",
     "url": "http://s1eed.store/live/9499781389/7742676539/383575.ts",
     "logo": ""
   },
   {
-    "name": "Chada TV (شدى)",
+    "name": "Chada1",
     "url": "http://s1eed.store/live/9499781389/7742676539/383572.ts",
     "logo": ""
   },
@@ -70,12 +70,12 @@
     "logo": ""
   },
   {
-    "name": "Medi1 Sat HD",
-    "url": "http://s1eed.store/live/9499781389/7742676539/383571.ts",
-    "logo": "http://showmetv.live:8898/chlogo/all/medi1tv.png"
+    "name": "Medi1Maghreb",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_medi1tv-arabic_g90v4ec_720p/chunks_dvr.m3u8",
+    "logo": "https://www.siyassi.com/storage/2025/07/288cf8abd2634e59fc13135424589d36.jpg"
   },
   {
-    "name": "Medi1 TV HD",
+    "name": "Medi1Afrique",
     "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/corp/83_medi1tv-afrique_tm7tu45_360p/chunks_dvr.m3u8",
     "logo": "https://www.siyassi.com/storage/2025/07/288cf8abd2634e59fc13135424589d36.jpg"
   },
