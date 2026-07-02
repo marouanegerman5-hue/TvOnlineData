@@ -1,0 +1,64 @@
+#!/bin/bash
+set -e
+
+# =========================
+# FirewallFalcon Safe Installer
+# =========================
+
+if [[ $EUID -ne 0 ]]; then
+   echo "❌ Run as root (sudo -i)"
+   exit 1
+fi
+
+echo "🚀 Installing FirewallFalcon Safe Panel..."
+
+INSTALL_DIR="/usr/local/firewallfalcon"
+MENU_URL="https://codeberg.org/firewallfalcons/FirewallFalcon-Manager/raw/branch/main/menu.sh"
+
+mkdir -p "$INSTALL_DIR"
+
+# =========================
+# Download function
+# =========================
+download() {
+    local url=$1
+    local out=$2
+
+    if command -v curl &>/dev/null; then
+        curl -fsSL "$url" -o "$out"
+    else
+        wget -q "$url" -O "$out"
+    fi
+}
+
+# =========================
+# Install menu safely
+# =========================
+download "$MENU_URL" "$INSTALL_DIR/menu.sh"
+chmod +x "$INSTALL_DIR/menu.sh"
+
+# Create global command
+cat > /usr/local/bin/menu <<EOF
+#!/bin/bash
+bash $INSTALL_DIR/menu.sh
+EOF
+
+chmod +x /usr/local/bin/menu
+
+# =========================
+# Safety check SSH (NO overwrite!)
+# =========================
+echo "🔐 Checking SSH service..."
+if systemctl is-active --quiet ssh || systemctl is-active --quiet sshd; then
+    echo "✅ SSH OK"
+else
+    echo "⚠️ SSH not detected (check manually)"
+fi
+
+# =========================
+# Done
+# =========================
+echo "=================================="
+echo "✅ FirewallFalcon installed safely"
+echo "👉 Type: menu"
+echo "=================================="
