@@ -8,5 +8,10 @@
     "name": "QBC",
     "url": "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8",
     "logo": "https://www.qmc.qa/img/LiveChannels/9be822a4-8b88-45cd-b5e1-8441d5b51837.jpeg"
+  },
+  {
+    "name": "اخبار العالم",
+    "url": "https://live2.alalam.ir/live/Alalam_low/index.m3u8",
+    "logo": "https://www.alalam.ir/sites/2/style/v2/assets/images/logo/Logo-Alalam.svg"
   }
 ]
