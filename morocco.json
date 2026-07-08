@@ -93,7 +93,7 @@
   {
     "name": "الحدث",
     "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8",
-    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/hadath-logo-night.svg"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL9ghpxFe2DqzjC9K6OYAU6xi1uw5C7Wrp2L357HOl1g&s=10"
   },
   {
     "name": "العربية",
@@ -113,7 +113,7 @@
   {
     "name": "العربية FM",
     "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w1573114081.m3u8",
-    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/fm-logo.svg"
+    "logo": "https://static2.mytuner.mobi/media/tvos_radios/386/al-arabiya-lrby-fm.68b88b1a.png"
   }
 ]
 
