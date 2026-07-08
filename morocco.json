@@ -89,6 +89,31 @@
     "name": "MBC 5",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuy_GMuCck_cTJaDky5qk45urIE1vui9ckl9LfJhgxw&s=10"
+  },
+  {
+    "name": "الحدث",
+    "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_360p/chunks.m3u8",
+    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/hadath-logo-night.svg"
+  },
+  {
+    "name": "العربية",
+    "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_360p/chunks.m3u8",
+    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/logo@2x.png"
+  },
+  {
+    "name": "العربية البرامج",
+    "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_480p/chunks.m3u8",
+    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/programs-logo.svg"
+  },
+  {
+    "name": "العربية الانجليزية",
+    "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/en-logo.svg"
+  },
+  {
+    "name": "العربية FM",
+    "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w1573114081.m3u8",
+    "logo": "https://www.alhadath.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/fm-logo.svg"
   }
 ]
 
