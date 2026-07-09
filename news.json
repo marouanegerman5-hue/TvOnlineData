@@ -13,5 +13,10 @@
     "name": "اخبار العالم",
     "url": "https://live2.alalam.ir/alalam.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhfJFXNrFAz_lwn0OQgewOzaaBaRkA0qAlr8xC7GgQA&s=10"
+  },
+  {
+    "name": "DW العربية",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgaauYhz6Dy7S2uKSMabrOZDgWjXfZBaMypdA4vFFxQ&s=10"
   }
 ]
