@@ -119,5 +119,10 @@
     "name": "العربي",
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8?orig=arabic&out=english,french,persian&default=&autoselect=no&line=70&position=50&align=center",
     "logo": "https://www.alaraby2.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg?v=11"
+  },
+  {
+    "name": "التانية كل حكاية",
+    "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+    "logo": "https://www.althania.tv/themes/custom/althania/assets/images/logo-slogan-light.svg"
   }
 ]
