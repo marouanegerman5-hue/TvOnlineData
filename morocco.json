@@ -114,6 +114,10 @@
     "name": "العربية FM",
     "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w1573114081.m3u8",
     "logo": "https://static2.mytuner.mobi/media/tvos_radios/386/al-arabiya-lrby-fm.68b88b1a.png"
+  },
+  {
+    "name": "العربي",
+    "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8?orig=arabic&out=english,french,persian&default=&autoselect=no&line=70&position=50&align=center",
+    "logo": "https://www.alaraby2.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg?v=11"
   }
 ]
-
